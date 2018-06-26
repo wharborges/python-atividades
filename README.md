@@ -1,0 +1,4 @@
+# Atividades em Python
+Este repositório é de aprendizado em Python - Ele é a releitura do Curso Fundamentos de Python - Todos Direitos Reservados a Data Science Academy. Aqui consta os exercícios e algumas das seções de atividades aplicadas pela DSA. É uma forma de divulgar o excelente trabalho que essa escola de Data Science e Artificial Intellegence tem desenvolvido de forma singular e muitas vezes de forma gratuita. O objetivo aqui será aplicar todo o conteúdo que tenho aprendido no Curso Python Fundamentos para Análise de Dados para de fato analisar e aplicar em diferentes conjuntos de dados abertos sejam disponíveis pelo governo, por alguma instituição, empresa, universidade e organização não governamental a fim de difundir e sedimentar o conhecimento em Python! Muitos problemas? Como dizem: "Pequenos problemas podem se tornar grandes problemas quando são adiados!" Então, Python neles!!!
+
+## Aplicação 01 - Uso de Python para análise de (aplicação 01)
